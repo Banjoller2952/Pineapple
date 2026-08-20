@@ -2,7 +2,7 @@
 
 **Versi:** 4.0  
 **Tanggal:** 15 Agustus 2026  
-**Penulis:** [Nama Anda]  
+**Penulis:** DeepSeek  
 **Lisensi:** MIT  
 
 ---
